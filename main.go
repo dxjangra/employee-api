@@ -1,4 +1,4 @@
-package main.go
+package main
 
 import (
 	docs "employee-api/docs"
